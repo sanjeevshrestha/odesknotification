@@ -1,4 +1,4 @@
 odesknotification
 =================
 
-Chrome extension for Odesk Notification
+Odesk Notification Chrome extension

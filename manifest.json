@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+
+  "name": "Odesk Notifications",
+  "description": "This extension loads odesk notifications.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
